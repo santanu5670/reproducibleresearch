@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Aditya Vikram Dash"
+author: "Santanu Saha"
 ---
 
 ## Introduction
